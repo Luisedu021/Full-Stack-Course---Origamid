@@ -1,0 +1,28 @@
+#intro {
+    color: gold;
+}
+
+.codigo,
+.design{
+    color: blue;
+
+}
+
+.title{
+    color: rgb(34, 17, 17)
+}
+
+
+/*
+
+assim todos os elementos ficam com a cor,se usar espaço,todos os filhos exemplo:
+p body a{
+    color:blue;
+} 
+o filho do p e de body e que é pintado apenas
+html,
+body,
+a {
+    color: yellow;
+}
+    */

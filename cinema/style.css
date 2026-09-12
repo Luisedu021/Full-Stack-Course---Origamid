@@ -1,0 +1,33 @@
+.estados {
+    color: rgb(7, 102, 46);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.rio-de-janeiro, .sao-paulo {
+    color: rgb(13, 26, 219);
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hoje {
+    color: rgb(126, 13, 5);
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+

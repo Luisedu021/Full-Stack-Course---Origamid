@@ -1,0 +1,54 @@
+
+.titulo {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.box{
+    background-color: #111;
+    padding: 10px;
+    margin: 20px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+.modelo{
+    color: #b2b2b2;
+    margin: 0px 0px 15px 20px;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: regular;
+    
+}
+.box-carro{
+    font-size: 15px;
+    font-weight: regular;
+}
+
+.carro{
+    color: #f1f1ee;
+    display: inline-block;
+    padding: 0px;
+    margin: 15px 0px 15px 20px;
+    font-size: 25px;
+}
+
+.amarelo{
+    color: #febe01;
+}
+
+.botao{
+    background-color: #febe01;
+    color: #111;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 0px 0px 20px 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
